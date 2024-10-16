@@ -6,17 +6,8 @@ body{
     font-family: Sora,Arial, Helvetica, sans-serif;
     text-decoration: none;
     color: #93B1A6;
+
 }
-
-
-
-
-
-
-
-
-
-
 
 header{
     height: max-content;
@@ -133,7 +124,7 @@ img:hover{
 
 @media only screen and (min-width: 400px) and (max-width:600px){
     body{
-        background-color: rgb(48, 47, 47);
+        background-color: rgb(17, 17, 17);
         transition: 2s;
 
     }
@@ -141,7 +132,7 @@ img:hover{
     section{
         margin-top: 2%;
         margin-left: 25%;
-        background-color: rgba(218, 218, 38, 0);
+        background-color: rgba(27, 27, 27, 0);
         width: 50%;
         float: left;
     }
